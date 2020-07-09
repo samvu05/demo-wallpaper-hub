@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "907081178009",
+    "firebase_url": "https://fir-wallpaper-e0857.firebaseio.com",
+    "project_id": "fir-wallpaper-e0857",
+    "storage_bucket": "fir-wallpaper-e0857.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:907081178009:android:6d14ccfd35ebc11129d108",
+        "android_client_info": {
+          "package_name": "com.sam.demofirewallpaper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "907081178009-6fq44lome4f1997grk31dv7n77a5g92p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjqd-SS7K9T6QNYStMSrP28818rgEbwnA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "907081178009-6fq44lome4f1997grk31dv7n77a5g92p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
